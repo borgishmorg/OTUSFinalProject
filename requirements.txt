@@ -1,0 +1,12 @@
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+MulticoreTSNE
+umap-learn
+tqdm
+nltk
+transformers
+cmake<3.20
+jupyterlab
